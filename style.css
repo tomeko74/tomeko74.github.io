@@ -1,0 +1,17 @@
+body,
+html {
+  width: 100%;
+  height: 100%;
+}
+
+body {
+  font-family: 'Montserrat', sans-serif;
+}
+
+header {
+  background-position: center;
+  background-image: url("background.png");
+  background-size: cover;
+  height: 100%;
+}
+
